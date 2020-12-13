@@ -25,7 +25,7 @@ function cambiarSlider(n){
       
     }
     if(index==1){
-        slider.setAttribute("src", "img/idea.png");
+        slider.setAttribute("src", "img/Idea.png");
        
 
     }
@@ -35,7 +35,7 @@ function cambiarSlider(n){
         
     }
     if(index==3){
-        slider.setAttribute("src", "img/logo.png");
+        slider.setAttribute("src", "img/Logo.png");
        
 
         index=-1;

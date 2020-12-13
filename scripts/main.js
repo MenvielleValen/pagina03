@@ -21,21 +21,21 @@ function cambiarSlider(n){
     
 
     if(index==0){
-        slider.setAttribute("src", "../img/Responsive.png");
+        slider.setAttribute("src", "/img/Responsive.png");
       
     }
     if(index==1){
-        slider.setAttribute("src", "../img/idea.png");
+        slider.setAttribute("src", "/img/idea.png");
        
 
     }
     if(index==2){
-        slider.setAttribute("src", "../img/Tunegocio.png");
+        slider.setAttribute("src", "/img/Tunegocio.png");
         
         
     }
     if(index==3){
-        slider.setAttribute("src", "../img/logo.png");
+        slider.setAttribute("src", "/img/logo.png");
        
 
         index=-1;

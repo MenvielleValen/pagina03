@@ -166,7 +166,7 @@ body{
     filter: grayscale(.8);
     
 }
-.imagen-presentacion-animacion{
+/*.imagen-presentacion-animacion{
     animation-name: img-anim;
     animation-duration: 5s;
     animation-iteration-count: infinite;
@@ -182,7 +182,7 @@ body{
         
 
     }
-}
+}*/
 
 
 
@@ -394,6 +394,3 @@ body{
 
 
 /*--------------------------Slider-----------------*/
-.activado{
-    
-}
